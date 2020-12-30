@@ -1,0 +1,4 @@
+matplotlib==3.3.3
+nltk==3.5
+numpy==1.19.3
+tqdm==4.54.0
